@@ -1,0 +1,9 @@
+-IE:\mingw64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++
+-IE:\mingw64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\x86_64-w64-mingw32
+-IE:\mingw64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\backward
+-IE:\mingw64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include
+-IE:\mingw64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include-fixed
+-IE:\mingw64\mingw64\x86_64-w64-mingw32\include
+-IE:\Dokumenty_ZbynA\Cpp_Pokusy\CodeLite\Projekty\Crash_Course\Chapter_4_Object_life_cycle\Chapter_4_Object_life_cycle
+-target
+x86_64-pc-windows-gnu
