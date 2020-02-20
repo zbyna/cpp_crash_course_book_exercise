@@ -1,0 +1,3 @@
+-IE:\Dokumenty_ZbynA\Cpp_Pokusy\CodeLite\Projekty\Crash_Course\Chapter_7_Expressions\Chapter_7_Expressions_Ex_72
+-target
+x86_64-pc-windows-gnu
